@@ -1,58 +1,62 @@
-/* Reset básico */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+body{
+    background-color: rgba(162, 214, 127, 0.247);
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.justdial.com%2Fjdmart%2FVisakhapatnam%2FFloral-Multi-Coloured-Abstract-Wallpapers%2Fpid-2219697476%2F0891PX891-X891-220518130320-N7U8&psig=AOvVaw2rgVr7kHlV4pDYS_zJ6WKC&ust=1758954265208000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNDemq3m9Y8DFQAAAAAdAAAAABAE');
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: black;
+    text-align: center;
+    text-decoration:underline;
+font-size:x-large; /*Tamany lletra*/
+font-family: "Covered By Your Grace", cursive; /*tipus de lletra*/
+
+}
+#Q1{
+
+
+  display: inline-block;
+width:30%;
+
+}
+h2{
+   
+    .chewy-regular {
+  font-family: "Chewy", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 
-/* Estilo general */
-body {
-    background-color: #f4f6f9;
-    color: #333;
-    line-height: 1.6;
-    padding: 40px;
-    display: flex;
-    justify-content: center;
+    background-color: rgb(122, 230, 245);
 }
+#Dades{
+    
+ 
+    background-color: rgba(189, 193, 255, 0.486);
+    width:69%;
+    display: inline-block;
 
-/* Contenedor principal */
-section {
-    background: #fff;
-    padding: 30px;
-    border-radius: 12px;
-    max-width: 600px;
-    width: 100%;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
+.QQQ{
+    background-color: rgb(255, 255, 255) ;
+display: inline-block;
+width:32%
 
-/* Imagen de perfil */
-img {
-    display: block;
-    margin: 0 auto 20px auto;
-    width: 140px;
-    height: 140px;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 3px solid #0077b6;
 }
-
-/* Títulos */
-h2 {
-    color: #0077b6;
-    border-bottom: 2px solid #0077b6;
-    padding-bottom: 5px;
-    margin: 20px 0 10px 0;
-    font-size: 1.3em;
-    text-transform: uppercase;
+#QQQQ{
+    
+    background-color: rgb(255, 255, 255);
+    
+display: inline-block;
+width:32%
 }
-
-/* Párrafos */
-p {
-    margin-bottom: 8px;
-    font-size: 1em;
+.Q{
+    background-color: rgb(255, 255, 255);
+    
+display: inline-block;
+width:32%
 }
+body{
 
-p strong {
-    color: #000;
+
+    
+
 }
